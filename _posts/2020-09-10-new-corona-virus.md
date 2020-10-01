@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      What's the phrase for "novel coronavirus" in Globien?
-subtitle:   Let's build the words together.
+title:      xxxxx
+subtitle:   XXXXX
 date:       2020-09-10
-author:     Henri Jambo
+author:     Huichao Ji
 header-img: img/post-bg-coronavirus.jpg
 catalog:    false
 tags:
