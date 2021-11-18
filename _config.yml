@@ -100,5 +100,8 @@ friends: [
     },{
         title: "Google Scholar",
         href: "https://scholar.google.com.hk/citations?hl=zh-CN&user=jf1zghwAAAAJ"
+    },{
+        title: "Twitter",
+        href: "https://twitter.com/HuichaoJi"
     }
 ]
