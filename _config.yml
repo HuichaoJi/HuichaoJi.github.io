@@ -13,7 +13,7 @@ github_repo: "https://github.com/HuichaoJi/HuichaoJi.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Department of Psychology<br/>Yale University"
-sidebar-avatar: /img/HuichaoJi2024.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/HuichaoJi2024.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
