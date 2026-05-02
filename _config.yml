@@ -93,16 +93,12 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ResearchGate",
-        href: "https://www.researchgate.net/profile/Huichao_Ji"
-    },{
         title: "ORCID",
         href: "https://orcid.org/0000-0001-8425-526X"
-    },{
+    },
+    
+    {
         title: "Google Scholar",
         href: "https://scholar.google.com.hk/citations?hl=zh-CN&user=jf1zghwAAAAJ"
-    },{
-        title: "Twitter",
-        href: "https://twitter.com/HuichaoJi"
     }
 ]
